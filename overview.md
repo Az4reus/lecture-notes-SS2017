@@ -25,7 +25,7 @@ correct it myself, I should be on track.
 
 ## Linear Algebra
 ### Lectures
-- 04/25
+- *~~05/25~~*
 - 04/26
 - 05/02
 - 05/03
