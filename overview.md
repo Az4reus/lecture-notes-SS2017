@@ -47,7 +47,7 @@ correct it myself, I should be on track.
 - 07/05
 
 ## Basics of Algorithms and Datastructures
-- 04/25
+- *~~04/25~~*
 - 04/26
 - 05/02
 - 05/03
