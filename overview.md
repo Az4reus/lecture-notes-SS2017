@@ -14,11 +14,6 @@ The issue that adds to this is homework, of which there are about 10 per course.
 This adds complexity to planning, but if I get one done every other day and
 correct it myself, I should be on track. 
 
-$$
-coeffmat
-$$
-
-
 ## Studying checklist
 - Watched Lecture? 
 - Took notes during, on shit that isn't immediately 200% obvious? 
@@ -36,7 +31,7 @@ $$
 - *~~05/03~~*
 - *~~05/09~~*
 - *~~05/10~~*
-- **05/16**
+- *~~05/16~~*
 - **05/17**
 - **05/23**
 - **05/24**
