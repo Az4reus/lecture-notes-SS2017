@@ -60,7 +60,7 @@ correct it myself, I should be on track.
 - *~~06/07~~*
 - *~~06/13~~*
 - *~~06/14~~*
-- **06/20**
+- *~~06/20~~* – Revisit/recapture lecture, no new material.
 - **06/21**
 - **06/27**
 - **07/04**
