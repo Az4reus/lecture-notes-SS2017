@@ -38,7 +38,7 @@ correct it myself, I should be on track.
 - *~~05/30~~*
 - *~~05/31~~*
 - **06/07** - Revisit, numerical computation lecture.
-- **06/13**
+- *~~06/13~~*
 - **06/14**
 - **06/20**
 - **06/21**
