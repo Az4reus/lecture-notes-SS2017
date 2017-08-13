@@ -60,14 +60,14 @@ correct it myself, I should be on track.
 - *~~06/07~~*
 - *~~06/13~~*
 - *~~06/14~~*
-- *~~06/20~~* – Revisit/recapture lecture, no new material.
+- *~~06/20~~* – Revisit/recapture lecture, no new materialh
 - **06/21**
 - **06/27**
 - **07/04**
 - **07/05**
 
 ## Basics of Software Engineering
-- **Lecture #1**
+- *~~Lecture #1~~*
 - **Lecture #2**
 - **Lecture #3**
 - **Lecture #4**
@@ -75,3 +75,7 @@ correct it myself, I should be on track.
 - **Lecture #6**
 - **Lecture #7**
 - **Lecture #8**
+- **Lecture #9**
+- **Lecture #10**
+- **Lecture #11**
+- **Lecture #12**
