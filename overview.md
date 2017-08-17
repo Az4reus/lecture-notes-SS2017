@@ -73,7 +73,7 @@ correct it myself, I should be on track.
 - *~~Lecture #4~~*
 - *~~Lecture #5~~*
 - *~~Lecture #6~~*
-- **Lecture #7**
+- *~~Lecture #7~~*
 - **Lecture #8**
 - **Lecture #9**
 - **Lecture #10**
